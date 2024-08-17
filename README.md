@@ -1,8 +1,11 @@
 Project: Amazon Sales and Fashion Data Analysis
 
 Dataset: Analyzed 1.3 lakh rows of Amazon sales and fashion data.
+
 Data Cleaning: Used Power Query to clean and preprocess the dataset.
+
 Data Analysis: Employed DAX functions to create new columns and derive meaningful metrics.
+
 Visualization: Utilized Power BI to visualize sales and fashion trends.
 
 Key Insights:
